@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5gcbell55g4"
-path="res://.godot/imported/Dead Samurai 2.icon.png-8c84bd210c598590ca28043781518c5c.ctex"
+path="res://.godot/imported/Dead Samurai 2.icon.png-2d2e452474966a4e09a77f54639ea863.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dead Samurai 2.icon.png"
-dest_files=["res://.godot/imported/Dead Samurai 2.icon.png-8c84bd210c598590ca28043781518c5c.ctex"]
+source_file="res://Exports/Web/WebSamurai/Dead Samurai 2.icon.png"
+dest_files=["res://.godot/imported/Dead Samurai 2.icon.png-2d2e452474966a4e09a77f54639ea863.ctex"]
 
 [params]
 

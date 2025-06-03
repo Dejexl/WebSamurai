@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2a6ce7i3ij5x"
-path="res://.godot/imported/Dead Samurai 2.apple-touch-icon.png-97c38297d43bdebc34345ff68d5f0aef.ctex"
+path="res://.godot/imported/Dead Samurai 2.apple-touch-icon.png-c62a4a17de9f80f7f45b21b7338b6f1f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dead Samurai 2.apple-touch-icon.png"
-dest_files=["res://.godot/imported/Dead Samurai 2.apple-touch-icon.png-97c38297d43bdebc34345ff68d5f0aef.ctex"]
+source_file="res://Exports/Web/WebSamurai/Dead Samurai 2.apple-touch-icon.png"
+dest_files=["res://.godot/imported/Dead Samurai 2.apple-touch-icon.png-c62a4a17de9f80f7f45b21b7338b6f1f.ctex"]
 
 [params]
 
